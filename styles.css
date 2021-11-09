@@ -27,5 +27,5 @@ section {
 footer {
    height: 30px;
    border: 2px solid black;
-   clear: both;
  }
+.footer {clear: both;}
